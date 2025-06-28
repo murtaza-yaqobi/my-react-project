@@ -3,6 +3,7 @@ function Home() {
     <>
       <p className="text-3xl">Murtaza Yaqobi on Github.com</p>
       <p>Emoji (⓿_⓿)</p>
+      <p>☆*: .｡. o(≧▽≦)o .｡.:*☆</p>
     </>
   );
 }
