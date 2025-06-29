@@ -1,9 +1,7 @@
 function Home() {
   return (
     <>
-      <p className="text-3xl">Murtaza Yaqobi on Github.com</p>
-      <p>Emoji (⓿_⓿)</p>
-      <p>☆*: .｡. o(≧▽≦)o .｡.:*☆</p>
+    <h1 className="text-4xl font-bold ml-36 mt-60">No matter how high the mountain is, the sun always rises</h1>
     </>
   );
 }

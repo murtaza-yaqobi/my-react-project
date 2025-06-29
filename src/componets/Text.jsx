@@ -1,7 +1,7 @@
 function Text(){
     return (
         <div>
-            <h1>Google</h1>  
+            <h1 className="text-4xl font-bold ml-40">مهم نیست کوه چقدر بزرگ باشه خورشید همیشه طلوع می کنه</h1>  
         </div>
     )
 }
